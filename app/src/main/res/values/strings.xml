@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BM Android Test</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="detail">Detail</string>
+    <string name="data_2017_05">Data 2017-05</string>
+    <string name="no_data">No Data</string>
+    <string name="data_2017_06">Data 2017 06 - the above data is a sample of parsing json object with date key from API using retrofit and room database</string>
+</resources>
